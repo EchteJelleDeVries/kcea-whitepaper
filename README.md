@@ -22,3 +22,7 @@ KCEA explores the hypothesis that enterprises can be organized around explicit k
 - AI Governance
 - Event Sourcing
 - Knowledge Sourcing
+## Discussion
+
+Open questions and research topics can be found in the Issues section:
+
