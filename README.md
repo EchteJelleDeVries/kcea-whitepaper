@@ -26,3 +26,4 @@ KCEA explores the hypothesis that enterprises can be organized around explicit k
 
 Open questions and research topics can be found in the Issues section:
 
+https://github.com/EchteJelleDeVries/kcea-whitepaper/issues
