@@ -12,7 +12,7 @@ KCEA explores the hypothesis that enterprises can be organized around explicit k
 
 ### Download
 
-[KCEA White Paper](KCEA-Whitepaper-v1.0.pdf)
+[KCEA White Paper](White%20Paper%20KCEA.pdf)
 
 ### Topics
 
